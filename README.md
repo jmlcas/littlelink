@@ -1,10 +1,7 @@
-# littlelink
-Littlelink - Dashboard Links - Docker compose
+# Littlelink
 
-Ver en "localhost:8200"
+Ver en "http://localhost:8200"
 
 Email: admin@admin.com
 
 Password: 12345678
-
-
